@@ -7,5 +7,19 @@
   "UpdateKeys": [ "Nexus:" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
-  }
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Poltergeister.CuteSprites",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "Poltergeister.SeasonalCuteCharacters",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "AmuTsukiyomi.MacDaddyPierre",
+      "IsRequired": false
+    }
+  ]
 }
