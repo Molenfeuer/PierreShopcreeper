@@ -1,0 +1,25 @@
+{
+  "Name": "Pierre Shop-creep-er",
+  "Author": "Nordmole",
+  "Version": "1.0.0",
+  "Description": "Give Pierre a creepy fake smile to fit his facial expression to his character",
+  "UniqueID": "Nordmole.PierreShopcreeper",
+  "UpdateKeys": [ "Nexus:9915" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Poltergeister.CuteSprites",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "Poltergeister.SeasonalCuteCharacters",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "AmuTsukiyomi.MacDaddyPierre",
+      "IsRequired": false
+    }
+  ]
+}
