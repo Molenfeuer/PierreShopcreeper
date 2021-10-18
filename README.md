@@ -9,7 +9,7 @@ Does it make you angry that Pierre nicely smiles at you while you're talking to 
 
 ## Features
 
-- Give Pierre a fake smile to fit his facial expression to his character
+- Give Pierre a creepy fake smile to fit his facial expression to his character
 
 ## Contribute
 

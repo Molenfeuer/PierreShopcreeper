@@ -2,7 +2,7 @@
   "Name": "Pierre Shop-creep-er",
   "Author": "Nordmole",
   "Version": "1.0.0",
-  "Description": "Give Pierre a fake smile to fit his facial expression to his character",
+  "Description": "Give Pierre a creepy fake smile to fit his facial expression to his character",
   "UniqueID": "Nordmole.PierreShopcreeper",
   "UpdateKeys": [ "Nexus:" ],
   "ContentPackFor": {
