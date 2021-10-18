@@ -1,0 +1,17 @@
+{
+  "Format": "1.23.0",
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Pierre",
+      "FromFile": "assets/pierre_fake_smile.png",
+      "PatchMode": "Overlay"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Pierre_Beach",
+      "FromFile": "assets/pierre_fake_smile_beach.png",
+      "PatchMode": "Overlay"
+    }
+  ]
+}
