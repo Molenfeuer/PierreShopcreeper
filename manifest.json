@@ -1,0 +1,11 @@
+{
+  "Name": "Pierre Shop-creep-er",
+  "Author": "Nordmole",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "Nordmole.PierreShopcreeper",
+  "UpdateKeys": [ "Nexus:" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
