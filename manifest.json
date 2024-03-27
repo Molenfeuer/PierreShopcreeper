@@ -1,9 +1,9 @@
 {
   "Name": "Pierre Shop-creep-er",
-  "Author": "Nordmole",
+  "Author": "Molenfeuer",
   "Version": "2.0.0",
   "Description": "Give Pierre a creepy fake smile to fit his facial expression to his character",
-  "UniqueID": "Nordmole.PierreShopcreeper",
+  "UniqueID": "Molenfeuer.PierreShopcreeper",
   "UpdateKeys": [ "Nexus:9915" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
