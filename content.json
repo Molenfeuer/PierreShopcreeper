@@ -1,9 +1,9 @@
 {
-  "Format": "1.23.0",
+  "Format": "2.0.0",
   "Changes": [
     {
       "Action": "EditImage",
-      "Target": "Portraits/Pierre",
+      "Target": "Portraits/Pierre, Portraits/Pierre_Winter",
       "FromFile": "assets/pierre_fake_smile.png",
       "PatchMode": "Overlay"
     },
