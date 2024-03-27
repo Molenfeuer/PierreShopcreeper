@@ -4,7 +4,7 @@ Does it make you angry that Pierre nicely smiles at you while you're talking to 
 
 ## Install
 
-1. Download the newest version of this mod from [NexusMods](https://www.nexusmods.com/users/96969738?tab=user+files) or the GitHub [release page](https://github.com/Nordmole/PierreShopcreeper/releases)
+1. Download the newest version of this mod from [NexusMods](https://www.nexusmods.com/users/96969738?tab=user+files) or the GitHub [release page](https://github.com/Molenfeuer/PierreShopcreeper/releases)
 2. Extract the ZIP-File and put the folder into the mods folder of SMAPI (mostly located under "C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods")
 
 ## Features
@@ -13,12 +13,13 @@ Does it make you angry that Pierre nicely smiles at you while you're talking to 
 
 ## Contribute
 
-If something doesn't work, or you miss a feature, feel free to open a new issue on the [GitHub Page of this mod](https://github.com/Nordmole/PierreShopcreeper/issues). Please always use the GitHub issue page instead of the issue page of Nexusmods or something else
+If something doesn't work, or you miss a feature, feel free to open a new issue on the [GitHub Page of this mod](https://github.com/Molenfeuer/PierreShopcreeper/issues). I prefer the GitHub Page but if you really don't want to use it feel free to use the [Issue Page here on NexusMods](https://www.nexusmods.com/stardewvalley/mods/9915?tab=bugs).
 
 ## Credits
 
-Love and hugs for [Pathoschild](https://www.nexusmods.com/stardewvalley/users/1552317) to develop [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400) and [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915). This modification uses both of these technologies to run!
+- First of all thanks to [ConcernedApe](https://twitter.com/concernedape) for developing Stardew Valley and the Sprites my own Textures based on!
+- Love and hugs for [Pathoschild](https://www.nexusmods.com/stardewvalley/users/1552317) to develop [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400) and [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915). This modification uses both of these technologies to run!
 
 ## Other
 
-Here's a little [YouTube Video](https://youtu.be/CTJ4P1EmiD4?t=12) i recommend to you
+Here's a little [YouTube Video](https://youtu.be/CTJ4P1EmiD4?t=12) i recommend to you.
